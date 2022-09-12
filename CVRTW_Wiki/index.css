@@ -1,0 +1,18 @@
+h1 {
+    text-align:center
+   }
+
+p {
+    text-align:center;
+    font-size: 18px;
+    font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+    font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
+    font-size: 18px
+   }
