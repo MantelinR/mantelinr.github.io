@@ -1,10 +1,11 @@
 h1 {
     text-align:center;
+    font-size:28px
    }
 
 p {
     text-align:center;
-    font-size: 18px;
+    font-size: 20px;
     font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif
   }
 
@@ -17,6 +18,18 @@ ul {
     font-size: 18px
    }
 
+.title_size {
+             font-size: 24px
+            }
+
+.tilt_size {
+             font-size: 32px
+            }
+
+.function_title {
+                 font-size: 22px
+                }
+
 .cadre_inputs {
         background: #e5e1e0; 
         padding: 15px;
@@ -24,4 +37,12 @@ ul {
         position:absolute; 
         left: 30px; 
         top: 150px
-       }   
+       }
+
+.return {
+         color: #10951a
+        }  
+
+.method {
+         color : #5b1095
+        }   
